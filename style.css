@@ -76,9 +76,15 @@ button {
 
 .pos-absolute {
     position: absolute;
-    top: 50 px;
-    right: 10 px;
+    top: 10px;
+    right: 10px;
     background-color: lightpink;
+}
+
+.postition {
+    position: relative;
+    height: 150px;
+    margin-bottom: 20px;
 }
 
 h1 {
@@ -96,4 +102,22 @@ h3 {
 img {
     width: 50%;         
     height: auto;
+}
+
+.box-left {
+    float: left;
+    width: 45%;
+    background-color: lightblue;
+    padding: 15px;
+}
+
+.box-right {
+    float: right;
+    width: 45%;
+    background-color: lightyellow;
+    padding: 15px;
+}
+
+.clear-fix {
+    clear: both;
 }
