@@ -6,3 +6,18 @@ body {
 h1, h2, h3 {
     font-family: Arial, sans-serif;
 }
+
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+.note {
+    color: green;
+    font-style: italic;
+}
+
+#footer-link {
+    color: rgb(211, 152, 42);
+    text-decoration: none;
+}
