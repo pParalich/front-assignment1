@@ -80,3 +80,20 @@ button {
     right: 10 px;
     background-color: lightpink;
 }
+
+h1 {
+    font-size: 3rem;   
+}
+
+h2 {
+    font-size: 2em;     
+}
+
+h3 {
+    font-size: 24px;      
+}
+
+img {
+    width: 50%;         
+    height: auto;
+}
