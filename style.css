@@ -61,3 +61,22 @@ button {
     padding: 10px 25px;
     margin: 20px 0;
 }
+
+.pos-static {
+    position: static;
+    background-color: lightgray;
+}
+
+.pos-relative {
+    position: relative;
+    top: 10px;
+    left: 20px;
+    background-color: lightgreen;
+}
+
+.pos-absolute {
+    position: absolute;
+    top: 50 px;
+    right: 10 px;
+    background-color: lightpink;
+}
