@@ -21,3 +21,14 @@ p {
     color: rgb(211, 152, 42);
     text-decoration: none;
 }
+
+.highlight {
+    background-color: rgba(0, 255, 204, 0.679);
+    font-weight: bold;
+}
+
+#main-heading {
+    color: darkblue;
+    font-size: 40px;
+    text-align: center;
+}
