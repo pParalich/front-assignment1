@@ -51,6 +51,8 @@ Built the page structure: headings, an about-me paragraph, ordered/unordered lis
 
 ## **Website**:
 
+https://pparalich.github.io/front-assignment1/
+
 ---
 
 ## **Final Reflection**
